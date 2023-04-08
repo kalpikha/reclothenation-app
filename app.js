@@ -106,7 +106,7 @@ app.post('/', function (req, res) {
 
 app.post('/services/donate', function (req, res) {
 
-    console.log(req.body);
+    // console.log(req.body);
     const requestedLocation = _.startCase(req.body.location).trim();
 
     Reuse_org.find({ $or: [{ location: requestedLocation }, { location: 'PAN India' }] })
@@ -119,12 +119,12 @@ app.post('/services/donate', function (req, res) {
 });
 
 app.post('/services/recycle', function (req, res) {
-    console.log(req.body);
+    // console.log(req.body);
     const requestedLocation = _.startCase(req.body.location).trim();
 
     Recycle_org.find({ $or: [{ location: requestedLocation }, { location: 'PAN India' }] })
         .then(function (foundItems) {
-            console.log(foundItems);
+            // console.log(foundItems);
             res.render('services/recycle', { items: foundItems, });
         })
         .catch(function (err) {
