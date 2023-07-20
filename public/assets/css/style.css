@@ -109,6 +109,9 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+  #heading-title{
+    font-size: 14px;
+  }
 }
 
 /*--------------------------------------------------------------
