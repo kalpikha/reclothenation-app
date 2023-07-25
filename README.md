@@ -16,8 +16,8 @@ To run Reclothenation-app on your local system, follow these steps:
    ``` javascript
    npm install
    ```
-After the installation is complete, run the application with:
+   After the installation is complete, run the application with:
   ``` javascript
    node app.js
    ```
-Access the app by opening your web browser and visiting http://localhost:3000
+   Access the app by opening your web browser and visiting http://localhost:3000
