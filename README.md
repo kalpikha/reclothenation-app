@@ -13,11 +13,11 @@ To run Reclothenation-app on your local system, follow these steps:
 2. Clone this repository to your local machine.
 3. Navigate to the project directory and run the following command in the terminal:
 
-   ``` javascript
-   npm install
-   ```
-   After the installation is complete, run the application with:
-  ``` javascript
-   node app.js
-   ```
-   Access the app by opening your web browser and visiting http://localhost:3000
+``` javascript
+npm install
+```
+After the installation is complete, run the application with:
+``` javascript
+node app.js
+```
+Access the app by opening your web browser and visiting http://localhost:3000
