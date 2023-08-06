@@ -1,5 +1,5 @@
 # Reclothenation-app
-Reclothenation-app is a sustainable clothing donation platform that aims to make a positive impact on the environment by facilitating the reuse and recycling of used clothes. Through our platform, we encourage users to donate their  clothes, reducing textile waste and promoting a more sustainable fashion industry.
+Reclothenation-app is a sustainable clothing donation platform that aims to make a positive impact on the environment by facilitating the reuse and recycling of used clothes. Through our platform, we encourage users to donate their clothes to NGOs or recycling companies, reducing textile waste and promoting a more sustainable fashion industry.
 
 # Key Features
 - Sustainable clothing donation platform, facilitating reuse and recycling of used clothes.
